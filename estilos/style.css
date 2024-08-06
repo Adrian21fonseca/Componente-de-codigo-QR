@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    background: hsl(212, 45%, 89%);
+    font-family: "Outfit", sans-serif;
+}
+
+.contenedor{
+    width: 80%;
+    background-color: white;
+    margin: 80px auto;
+    padding: 18px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.276);
+
+}
+
+.imagen{
+    width: 100%;
+    border-radius: 10px;
+}
+
+.titulo{
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 0;
+}
+
+.tex{
+    text-align: center;
+    color: hsl(216, 15%, 48%);
+    font-size: 15px;
+    margin-top: 15px;
+}
